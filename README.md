@@ -1,6 +1,6 @@
 
 # Aula de Revisão Revisão Sistemática - Cesar School
-<p align="center"><img src="manuscript/images/systematic-review.png"  width="500" height="319" align="middle"/></p>
+<p align="center"><img src="manuscript/images/systematic-review.png"  width="400" height="255" align="middle"/></p>
 
 <p align="justify">Esse material tem como objetivo apresentar a configuração de um ambiente para implantação de serviços por meio de Container utilizando Docker e sua disponização através do Docker Hub.</p>
 
