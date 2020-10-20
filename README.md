@@ -1,5 +1,5 @@
 
-# Aula de Revisão Revisão Sistemática - Cesar School
+# Aula Revisão Sistemática - Cesar School
 <p align="center"><img src="manuscript/images/systematic-review.png"  width="400" height="255" align="middle"/></p>
 
 <p align="justify">Ambiente no qual será disponibilizado material da aula de Revisão Sistemática Métodos e Ferramentas.</p>
