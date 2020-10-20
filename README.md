@@ -41,5 +41,3 @@ Slide Revisão Sistemática [Clique Aqui](manuscript/anexos/Slide_Systematic_Rev
 |  Semantic Scholar | [Acesso](https://www.semanticscholar.org/?utm_source=google&utm_medium=cpc&utm_campaign=search_br_world_wq&utm_content=&utm_term=semantic%20scholar&gclid=CjwKCAjwlbr8BRA0EiwAnt4MTiW2S7dzLbkocY7CWAxoxOfIdqqYOBdA1_ShbgwoU18PRyNtOj0FcBoCPVoQAvD_BwE)  |
 |  Base-Search | [Acesso](https://www.base-search.net/)   |
 
-## Livros de Referência
-Systematic Review [Download](manuscript/anexos/Kitchenham-2016.pdf)
