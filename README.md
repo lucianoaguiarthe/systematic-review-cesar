@@ -16,6 +16,7 @@ Slide Revisão Sistemática [Clique Aqui](manuscript/anexos/Slide_Systematic_Rev
 
 ## Gravação da Aula
 
+[![Revisão Sistemática - Métodos e Ferramentas](http://img.youtube.com/vi/Z5itzqqPplA/0.jpg)](http://www.youtube.com/watch?v=Z5itzqqPplA "Revisão Sistemática - Métodos e Ferramentas")
 
 ## Ferramentas
 
