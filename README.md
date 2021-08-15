@@ -14,9 +14,16 @@
 
 Slide Revisão Sistemática [Clique Aqui](manuscript/anexos/Slide_Systematic_Review.pdf)
 
+## Forms 
+
+
+Formulário Avaliação Critérios de Qualidade Papers. [Acesso](https://forms.gle/CS4R1obpCC2dGBYB7) 
+
+
+
 ## Gravação da Aula
 
-[![Revisão Sistemática - Métodos e Ferramentas](http://img.youtube.com/vi/Z5itzqqPplA/0.jpg)](http://www.youtube.com/watch?v=Z5itzqqPplA "Revisão Sistemática - Métodos e Ferramentas")
+[![Revisão Sistemática - Métodos e Ferramentas](http://img.youtube.com/vi/Z5itzqqPplA/0.jpg)](https://youtu.be/aLZMPRtjaHU "Revisão Sistemática - Métodos e Ferramentas")
 
 ## Ferramentas
 
